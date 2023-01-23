@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://tituswong.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://tituswong12.io)
 <h1 align="center">Hi 👋, I'm Titus Wong</h1>
 <h3 align="center">A passionate Fullstack Developer who is always ready to build the next solution</h3>
 
